@@ -1,0 +1,9 @@
+/home/lyf/anaconda3/lib/python3.8/site-packages/Bio/SubsMat/__init__.py:126: BiopythonDeprecationWarning: Bio.SubsMat has been deprecated, and we intend to remove it in a future release of Biopython. As an alternative, please consider using Bio.Align.substitution_matrices as a replacement, and contact the Biopython developers if you still need the Bio.SubsMat module.
+  warnings.warn(
+Parse amino acid sequences, running time: 0.00 mins.
+The distance matrix of alignments is written in 'distance_matirx.xlsx'.
+Clustering from distance matrix, running time: 3.80 mins.
+Cluster from paired alignments, running time: 3.80 mins.
+The guide tree in Newick format is written in 'guide_tree.txt', and plot is saved as 'guide_tree_plot.pdf'.
+Sequence alignment result is written in 'sequence_alignment.txt.'
+All processes done, running time: 15.72 mins.
